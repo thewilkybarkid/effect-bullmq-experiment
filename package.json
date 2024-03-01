@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@effect/platform-node": "^0.44.11",
+    "@tsconfig/node20": "^20.1.2",
+    "bullmq": "^5.4.1",
+    "effect": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "tsx": "^4.7.1"
+  }
+}
